@@ -1,7 +1,15 @@
 # Hackintosh-r3220g-Rx570-4gb-A320mk-Prime-Motherboard
 OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
 
-![image](https://github.com/user-attachments/assets/eb5f70f0-c1c6-4bc0-9734-b944a4dd8096)![image](https://github.com/user-attachments/assets/b176f0dc-a8c6-4062-a141-df805f252f13)
+[![OpenCore Legacy Patcher](https://img.shields.io/badge/OpenCore%20Legacy%20Patcher-Repo-blue?logo=github)](https://github.com/dortania/OpenCore-Legacy-Patcher)  [![Dortania Docs](https://img.shields.io/badge/Dortania%20Docs-Website-orange?logo=readthedocs)](https://dortania.github.io/docs/)  [![OCAuxiliaryTools](https://img.shields.io/badge/OCAuxiliaryTools-Repo-blue?logo=github)](https://github.com/ic005k/OCAuxiliaryTools)  [![Hackintool](https://img.shields.io/badge/Hackintool-Repo-blue?logo=github)](https://github.com/benbaker76/Hackintool)   ![OpenCore Simplify](https://img.shields.io/badge/OpenCore-Simplify-blue?style=flat-square)
+
+![image](https://github.com/user-attachments/assets/eb5f70f0-c1c6-4bc0-9734-b944a4dd8096)
+
+## Screenshot
+<details>
+  <summary><strong>Click to expand</strong></summary>
+![Hackintool Screenshot 1](/images/Hackintool01.png)
+</details>
 
 ## 📋 Overview
 
