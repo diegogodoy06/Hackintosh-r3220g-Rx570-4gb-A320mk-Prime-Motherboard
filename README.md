@@ -5,6 +5,13 @@ OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
 
 ![image](https://github.com/user-attachments/assets/eb5f70f0-c1c6-4bc0-9734-b944a4dd8096)
 
+
+
+
+## 📋 Overview
+
+This repository contains detailed information about the EFI installation, where I used **OpenCore Simplify** to configure most of the EFI.
+
 ## Screenshot
 <details>
   <summary><strong>Click to expand</strong></summary>
@@ -12,11 +19,6 @@ OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
   ![Screenshot 1](/Hackintool01.png)
 
 </details>
-
-
-## 📋 Overview
-
-This repository contains detailed information about the EFI installation, where I used **OpenCore Simplify** to configure most of the EFI.
 
 ---
 
