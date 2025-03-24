@@ -1,6 +1,10 @@
 # Hackintosh-r3220g-Rx570-4gb-A320mk-Prime-Motherboard
 OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
 
+
+![image](https://github.com/user-attachments/assets/eb5f70f0-c1c6-4bc0-9734-b944a4dd8096)
+
+
 # Instalação e EFI - Relatório
 
 ## System Info
@@ -14,8 +18,6 @@ OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
 **Decodificador VDA** Totalmente Suportado
 
 ## Serial Info
-
-**País:** China (Quanta Computer)  
 **Ano:** 2021  
 **Semana:** 11.26.2021 - 12.02.2021  
 **Linha:** 3079 (copy 1)  
@@ -33,3 +35,5 @@ OpenCore Hackintosh EFI for R3 2200G + RX 570 + ASUS A320M-K PRIME
 **Metal Default Device:** Yes  
 **Metal Low Power:** No  
 **Metal Headless:** No  
+
+![image](https://github.com/user-attachments/assets/b176f0dc-a8c6-4062-a141-df805f252f13)
